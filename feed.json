@@ -1,0 +1,394 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Notes from 1705",
+	"icon": "https://micro.blog/dsh1705/avatar.jpg",
+	"home_page_url": "https://notes.1705.net/",
+	"feed_url": "https://notes.1705.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://dsh1705.micro.blog/2023/01/01/making-pear-apple.html",
+				
+				"content_html": "<p>Making pear apple butter. The house will smell wonderful all day!</p>\n",
+				"content_text": "Making pear apple butter. The house will smell wonderful all day!\n",
+				"date_published": "2023-01-01T12:24:28-08:00",
+				"url": "https://notes.1705.net/2023/01/01/making-pear-apple.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/29/i-should-have.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I should have built a porch on all sides of my house wtih full spectrum lights for dreary days like today.</p>\n",
+				"date_published": "2022-12-29T09:34:41-08:00",
+				"url": "https://notes.1705.net/2022/12/29/i-should-have.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/27/i-could-build.html",
+				
+				"content_html": "<p>I could build IKEA stuff all day long. Reminds me of kit building from childhood.</p>\n",
+				"content_text": "I could build IKEA stuff all day long. Reminds me of kit building from childhood.\n",
+				"date_published": "2022-12-27T16:43:24-08:00",
+				"url": "https://notes.1705.net/2022/12/27/i-could-build.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/26/boxing-day-when.html",
+				
+				"content_html": "<p>Boxing Day. When you take out all the boxes to the recycle bin.</p>\n",
+				"content_text": "Boxing Day. When you take out all the boxes to the recycle bin.\n",
+				"date_published": "2022-12-26T09:27:43-08:00",
+				"url": "https://notes.1705.net/2022/12/26/boxing-day-when.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/25/the-house-is.html",
+				
+				"content_html": "<p>The house is currently rocking out to the great holiday classic “Sugar Rump Fairies” by Holidelic.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The house is currently rocking out to the great holiday classic “Sugar Rump Fairies” by Holidelic.\n\n<img src=\"uploads/2022/d9c5d49764.jpg\" width=\"600\" height=\"569\" alt=\"\">\n",
+				"date_published": "2022-12-25T11:35:09-08:00",
+				"url": "https://notes.1705.net/2022/12/25/the-house-is.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/25/another-of-lifes.html",
+				
+				"content_html": "<p>Another of life’s milestones reached: received approval for old age pension.</p>\n",
+				"content_text": "Another of life’s milestones reached: received approval for old age pension.\n",
+				"date_published": "2022-12-25T10:12:15-08:00",
+				"url": "https://notes.1705.net/2022/12/25/another-of-lifes.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/24/i-need-to.html",
+				
+				"content_html": "<p>I need to start keeping recipes in a git repo. Branches and PRs would be helpful, as well as keeping track of what I did last holiday season.</p>\n",
+				"content_text": "I need to start keeping recipes in a git repo. Branches and PRs would be helpful, as well as keeping track of what I did last holiday season.\n",
+				"date_published": "2022-12-24T15:36:28-08:00",
+				"url": "https://notes.1705.net/2022/12/24/i-need-to.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/23/i-have-really.html",
+				"title": "I have really tried to work with Paperlike…",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I have really tried to work with Paperlike, but my eyes can’t handle the blurriness on the screen. I love the feel of the screen, I love the pencil grip, but I use the iPad (8th generation) for reading and note taking. Note taking has improved immensely, but I cannot get used to the way text looks on the screen - my eyes get fatigued, and I find it hard to focus. It is nice they have a liberal return policy</p>\n",
+				"date_published": "2022-12-23T20:20:31-08:00",
+				"url": "https://notes.1705.net/2022/12/23/i-have-really.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/23/folks-moving-away.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Folks moving away from Twitter may be interested in this <a href=\"https://tinysubversions.com/twitter-archive/make-your-own/\">tool</a>: </p>\n<p>Thinking of <a href=\"https://micro.blog/numericcitizen\">@numericcitizen</a> and some others that have been wondering about their Twitter posts.</p>\n",
+				"date_published": "2022-12-23T14:49:03-08:00",
+				"url": "https://notes.1705.net/2022/12/23/folks-moving-away.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/23/help-still-not.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://micro.blog/help\">@help</a> - Still not able to post via the web or Gluon, even though I have added BACK a payment method to my account. Receiving a \"You need to add a payment method to post during your Micro.blog trial.\" message.</p>\n",
+				"date_published": "2022-12-23T14:46:59-08:00",
+				"url": "https://notes.1705.net/2022/12/23/help-still-not.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/12/22/it-is-cold.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>It is COLD for Seattle today</p>\n<p><img title=\"thermometer showing temperature.png\" src=\"https://notes.1705.net/uploads/2022/fc01e39a78.png\" alt=\"IMG 5421\" width=\"450\" height=\"600\" border=\"0\" /></p>\n",
+				"date_published": "2022-12-22T17:42:57-08:00",
+				"url": "https://notes.1705.net/2022/12/22/it-is-cold.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/11/11/excellent-post-about.html",
+				"title": "Excellent Post About Twitter",
+				"content_html": "<p><a href=\"https://www.nybooks.com/online/2022/11/11/in-the-hothouse-twitter-musk/\">www.nybooks.com/online/20&hellip;</a></p>\n<p>In the Hothouse | Ben Tarnoff</p>\n<p>Mark Zuckerberg once called Twitter a clown car that fell into a gold mine. Now there is a new clown behind the wheel, and the gold’s all gone. Twitter has long been bad at making money, clownishly bad. But it continued to attract investment, thanks to the low interest rates engineered by the Federal Reserve to ease the pain of the 2008 global financial crisis and its long aftermath. Gorged with capital, investors spent many years pouring money into tech firms that don’t make money in the belief that someday they would.</p>\n<p>In today’s macroeconomic environment, the appetite for such risks has subsided. The worst inflation since the early 1980s has got the Fed rapidly cranking up rates. The financial floodplains of Silicon Valley are drying up; it is a time of layoffs, hiring freezes, down rounds, and cratering stock prices. It is therefore the worst possible moment in recent memory to acquire an unprofitable tech company, especially if you paid a high price for it and took on a lot of debt to do so.</p>\n<p>A mine with nothing left to mine is just a hole in the ground. And this is where Elon Musk now finds himself: deep in a hole. The precise depth of the hole was determined by a gag. Back in April, when he made his first bid, he proposed to take Twitter private at $54.20 a share, a weed reference, and that is ultimately what he paid. This stupid number is more meaningful than it may seem. It reveals a wider truth, one that does not displace so much as subsume the various interpretations about why Musk is behaving the way he is: it’s all a joke.</p>\n<p>A joke is a terribly serious thing. It makes matters more complicated rather than less. Freud said that jokes are like dreams: they come from the unconscious, he believed, and are thus glutted with meanings in excess of those intended by the teller. Musk’s relationship to Twitter is, to use a Freudian word, overdetermined. It is a bundle of psychic attachments so densely knotted that it would take a century on the couch to unravel.</p>\n<p>For Musk, Twitter means too much. It is an outlet for his immeasurable ressentiment, an incubator for his reactionary politics, an arena for irony-poisoned meme combat, a stage from which to cultivate a fanbase, a megaphone for marketing his various ventures, a place to get his feelings hurt, a high school cafeteria full of cool kids against whom to take revenge. And this is what makes him such a lousy chief executive. The cool discipline of capital requires restraint. Musk, by contrast, has spent his short tenure as Twitter’s owner in a fever of desublimation—antagonizing the advertisers on whom the vast majority of Twitter’s revenue depends, haggling with Stephen King over the price of a blue check, circulating a right-wing conspiracy theory about the attack on Nancy Pelosi’s husband, laying off half of Twitter’s employees only to ask some of them to take their jobs back the next day.</p>\n<p>One gets the sense that Musk, despite having turned Twitter into a personal dictatorship, is not exactly in control. Oedipus was king of Thebes and also, famously, not exactly in control. There is something poignantly Greek about the likelihood that Twitter may die, or at least be mangled beyond recognition, at the hands of someone who can’t seem to live without it. It would be a fitting end for the most neurotic website on the Internet.</p>\n<ul>\n<li></li>\n</ul>\n<p>What is Twitter? What is it for? These have always been difficult questions. Its creators never had good answers. A major inspiration for the original service was an SMS application called TXTmob, which had been developed to coordinate the protests against the 2004 Republican National Convention in New York. TXTmob grew out of the hacker-anarchist milieu that supplied technical personnel to the antiglobalization and antiwar movements of that era. Twitter turned the basic idea into a business. But what they had was a form—the mobile status update—rather than a content. Why tweet? Jack Dorsey seemed to think the site would be used to tell people you were having fun at a particularly good nightclub. My first memory of someone using Twitter, in 2007, was a tweet telling people about eating a particularly good sandwich.</p>\n<p>Twitter’s lack of definition turned out to be a blessing. The fact that nobody knew what it was for meant that users got to come up with their own answers together. The company mostly stayed out of the way: aside from the character limit, Twitter traditionally had relatively few features or distinguishing characteristics, and remained mercifully free of “product innovation.” It was this indeterminateness that made Twitter so malleable to its users. It was a blank screen on which to project, a room in which to talk to ourselves in the hope that someone would hear.</p>\n<p>The Jamaican theorist Sylvia Wynter says that we are a storytelling species: homo narrans. We use storytelling to define what it means to be human and which particular humans we are. One can then speak of different “genres” of the human: different kinds of stories that make different kinds of people. What Twitter became, as it evolved from a startup into a fixture of the Internet in the 2010s, was nothing less than a machine for the production of new genres of being human. “A new type of guy just dropped,” the meme goes. Over the years, a bewildering variety of types have been produced. A very partial list would have to include Weird Twitter, Black Twitter, Left Twitter, and Trump Twitter, each with their own elaborate genre conventions and extensive internal differentiation.</p>\n<p>The critic George W. S. Trow, writing in the early 1980s, observed that television had established a “context of no-context.” That is, it had annihilated the ideas and practices that traditionally gave meaning and coherence to human life, passed down from one generation to the next, and replaced them with a depthless world of spectacle. A few years later, the educator Neil Postman made a similar argument. Television, he wrote, had created “a world of fragments, where events stand alone, stripped of any connection to the past, or to the future, or to other events.”</p>\n<p>On Twitter, the situation is the opposite. Twitter has too much context; it is a stitchwork of contexts so baroque that it takes real work to get inside them. For Trow and Postman, the televisualization of culture had eliminated the obligation to become cultured: information had to be shorn of complexity to be spoon-fed into the melting mind of the couch potato. Twitter, by contrast, requires some fluency in its dialects to be of any interest. A poster is not a couch potato. A poster is an initiate, a practitioner with specialized knowledge.</p>\n<p>This is why the website can be so intimidating to the casual user, and why, in turn, it has had so much trouble growing. A small percentage of users account for nearly all of its activity: according to a recent internal report obtained by Reuters, heavy tweeters account for fewer than 10 percent of monthly overall users but generate 90 percent of the tweets. Which makes sense, because it takes a certain kind of person, and a decent amount of free time, to internalize enough of the protocols and learn enough of the lore to properly inhabit a context. Pity the future historians poring over petabytes of subtweets, trying to make sense of it all.</p>\n<p>And yet if Twitter is not all that populous in absolute terms, it does exert considerable power over popular and elite discourses. The effect on our politics is particularly pronounced. It is impossible to imagine the political career of Donald Trump, much less the Trumpification of the Republican Party, without his hall-of-fame Twitter account. Also, journalists are notoriously zealous Twitter users, and so the website does much to affect which stories the media covers, and how. Everyone lives in the world that Twitter has made, regardless of whether they’ve ever tweeted.</p>\n<p>This is one way to think about what Twitter is, and what might be lost if it disappears: a network of influence. But such a definition doesn’t explain why Twitter is such fertile soil for the proliferation of contexts and complexes—why its users, including and especially Musk, have made it mean so much. Maybe a better way to think of Twitter is as a hothouse of human culture, with climatic conditions engineered to promote especially rapid and chaotic forms of growth. All those different genres of being human that germinate inside it are also, in a word, cultures.</p>\n<p>The term “culture” generally carries a note of nobility. Cultures are to be celebrated. UNESCO goes around the world determining which things belong to humanity’s cultural heritage—so far the list includes Thai massage, Machu Picchu, and Ukrainian borscht—and therefore deserve humanity’s respect and protection. But cultures do not always deserve respect and protection. Cultures, like people, can be pathological. They can authorize cruelty and mass death. The Crusaders had culture; so do the executives at ExxonMobil.</p>\n<p>To say that Twitter is a breeding zone of cultures, then, is not necessarily to make a moral claim on its behalf, to suggest that it is some sort of World Heritage Site that must be defended from Musk’s bulldozers. Twitter is a richer cultural field than the midcentury television wasteland deplored by Trow and Postman, but that doesn’t mean our outlook as a species has improved. In fact, the two grumps would be delighted to learn that, while the exact conditions they diagnosed no longer obtain, there remains ample cause for their civilizational pessimism.</p>\n<p>There has been considerable debate, in part conducted on Twitter, about whether the recrudescence of far-right politics seen around the world in recent years should be called fascist. It certainly has fascist potential, and Twitter—by giving people a channel for unimpeded self-description, by acting as both stimulant and sponge of humanity’s narratomania—has had no small part in organizing that potential. Some of the new types of guys that the website’s cultures have produced are those who worship death, take pleasure in the pain of others, and see subhumans everywhere. Twitter may not survive Musk, but if and when the website dies, I won’t be sure whether I should mourn it. “There is no document of civilization which is not at the same time a document of barbarism,” Walter Benjamin once wrote, and so sometimes it’s hard to know how to feel when such documents burn.</p>\n",
+				"content_text": "[www.nybooks.com/online/20...](https://www.nybooks.com/online/2022/11/11/in-the-hothouse-twitter-musk/)\n\nIn the Hothouse | Ben Tarnoff\n\nMark Zuckerberg once called Twitter a clown car that fell into a gold mine. Now there is a new clown behind the wheel, and the gold’s all gone. Twitter has long been bad at making money, clownishly bad. But it continued to attract investment, thanks to the low interest rates engineered by the Federal Reserve to ease the pain of the 2008 global financial crisis and its long aftermath. Gorged with capital, investors spent many years pouring money into tech firms that don’t make money in the belief that someday they would.\n\nIn today’s macroeconomic environment, the appetite for such risks has subsided. The worst inflation since the early 1980s has got the Fed rapidly cranking up rates. The financial floodplains of Silicon Valley are drying up; it is a time of layoffs, hiring freezes, down rounds, and cratering stock prices. It is therefore the worst possible moment in recent memory to acquire an unprofitable tech company, especially if you paid a high price for it and took on a lot of debt to do so.\n\nA mine with nothing left to mine is just a hole in the ground. And this is where Elon Musk now finds himself: deep in a hole. The precise depth of the hole was determined by a gag. Back in April, when he made his first bid, he proposed to take Twitter private at $54.20 a share, a weed reference, and that is ultimately what he paid. This stupid number is more meaningful than it may seem. It reveals a wider truth, one that does not displace so much as subsume the various interpretations about why Musk is behaving the way he is: it’s all a joke.\n\nA joke is a terribly serious thing. It makes matters more complicated rather than less. Freud said that jokes are like dreams: they come from the unconscious, he believed, and are thus glutted with meanings in excess of those intended by the teller. Musk’s relationship to Twitter is, to use a Freudian word, overdetermined. It is a bundle of psychic attachments so densely knotted that it would take a century on the couch to unravel.\n\nFor Musk, Twitter means too much. It is an outlet for his immeasurable ressentiment, an incubator for his reactionary politics, an arena for irony-poisoned meme combat, a stage from which to cultivate a fanbase, a megaphone for marketing his various ventures, a place to get his feelings hurt, a high school cafeteria full of cool kids against whom to take revenge. And this is what makes him such a lousy chief executive. The cool discipline of capital requires restraint. Musk, by contrast, has spent his short tenure as Twitter’s owner in a fever of desublimation—antagonizing the advertisers on whom the vast majority of Twitter’s revenue depends, haggling with Stephen King over the price of a blue check, circulating a right-wing conspiracy theory about the attack on Nancy Pelosi’s husband, laying off half of Twitter’s employees only to ask some of them to take their jobs back the next day.\n\nOne gets the sense that Musk, despite having turned Twitter into a personal dictatorship, is not exactly in control. Oedipus was king of Thebes and also, famously, not exactly in control. There is something poignantly Greek about the likelihood that Twitter may die, or at least be mangled beyond recognition, at the hands of someone who can’t seem to live without it. It would be a fitting end for the most neurotic website on the Internet.\n\n*\n\nWhat is Twitter? What is it for? These have always been difficult questions. Its creators never had good answers. A major inspiration for the original service was an SMS application called TXTmob, which had been developed to coordinate the protests against the 2004 Republican National Convention in New York. TXTmob grew out of the hacker-anarchist milieu that supplied technical personnel to the antiglobalization and antiwar movements of that era. Twitter turned the basic idea into a business. But what they had was a form—the mobile status update—rather than a content. Why tweet? Jack Dorsey seemed to think the site would be used to tell people you were having fun at a particularly good nightclub. My first memory of someone using Twitter, in 2007, was a tweet telling people about eating a particularly good sandwich.\n\nTwitter’s lack of definition turned out to be a blessing. The fact that nobody knew what it was for meant that users got to come up with their own answers together. The company mostly stayed out of the way: aside from the character limit, Twitter traditionally had relatively few features or distinguishing characteristics, and remained mercifully free of “product innovation.” It was this indeterminateness that made Twitter so malleable to its users. It was a blank screen on which to project, a room in which to talk to ourselves in the hope that someone would hear.\n\nThe Jamaican theorist Sylvia Wynter says that we are a storytelling species: homo narrans. We use storytelling to define what it means to be human and which particular humans we are. One can then speak of different “genres” of the human: different kinds of stories that make different kinds of people. What Twitter became, as it evolved from a startup into a fixture of the Internet in the 2010s, was nothing less than a machine for the production of new genres of being human. “A new type of guy just dropped,” the meme goes. Over the years, a bewildering variety of types have been produced. A very partial list would have to include Weird Twitter, Black Twitter, Left Twitter, and Trump Twitter, each with their own elaborate genre conventions and extensive internal differentiation.\n\nThe critic George W. S. Trow, writing in the early 1980s, observed that television had established a “context of no-context.” That is, it had annihilated the ideas and practices that traditionally gave meaning and coherence to human life, passed down from one generation to the next, and replaced them with a depthless world of spectacle. A few years later, the educator Neil Postman made a similar argument. Television, he wrote, had created “a world of fragments, where events stand alone, stripped of any connection to the past, or to the future, or to other events.”\n\nOn Twitter, the situation is the opposite. Twitter has too much context; it is a stitchwork of contexts so baroque that it takes real work to get inside them. For Trow and Postman, the televisualization of culture had eliminated the obligation to become cultured: information had to be shorn of complexity to be spoon-fed into the melting mind of the couch potato. Twitter, by contrast, requires some fluency in its dialects to be of any interest. A poster is not a couch potato. A poster is an initiate, a practitioner with specialized knowledge.\n\nThis is why the website can be so intimidating to the casual user, and why, in turn, it has had so much trouble growing. A small percentage of users account for nearly all of its activity: according to a recent internal report obtained by Reuters, heavy tweeters account for fewer than 10 percent of monthly overall users but generate 90 percent of the tweets. Which makes sense, because it takes a certain kind of person, and a decent amount of free time, to internalize enough of the protocols and learn enough of the lore to properly inhabit a context. Pity the future historians poring over petabytes of subtweets, trying to make sense of it all.\n\nAnd yet if Twitter is not all that populous in absolute terms, it does exert considerable power over popular and elite discourses. The effect on our politics is particularly pronounced. It is impossible to imagine the political career of Donald Trump, much less the Trumpification of the Republican Party, without his hall-of-fame Twitter account. Also, journalists are notoriously zealous Twitter users, and so the website does much to affect which stories the media covers, and how. Everyone lives in the world that Twitter has made, regardless of whether they’ve ever tweeted.\n\nThis is one way to think about what Twitter is, and what might be lost if it disappears: a network of influence. But such a definition doesn’t explain why Twitter is such fertile soil for the proliferation of contexts and complexes—why its users, including and especially Musk, have made it mean so much. Maybe a better way to think of Twitter is as a hothouse of human culture, with climatic conditions engineered to promote especially rapid and chaotic forms of growth. All those different genres of being human that germinate inside it are also, in a word, cultures.\n\nThe term “culture” generally carries a note of nobility. Cultures are to be celebrated. UNESCO goes around the world determining which things belong to humanity’s cultural heritage—so far the list includes Thai massage, Machu Picchu, and Ukrainian borscht—and therefore deserve humanity’s respect and protection. But cultures do not always deserve respect and protection. Cultures, like people, can be pathological. They can authorize cruelty and mass death. The Crusaders had culture; so do the executives at ExxonMobil.\n\nTo say that Twitter is a breeding zone of cultures, then, is not necessarily to make a moral claim on its behalf, to suggest that it is some sort of World Heritage Site that must be defended from Musk’s bulldozers. Twitter is a richer cultural field than the midcentury television wasteland deplored by Trow and Postman, but that doesn’t mean our outlook as a species has improved. In fact, the two grumps would be delighted to learn that, while the exact conditions they diagnosed no longer obtain, there remains ample cause for their civilizational pessimism.\n\nThere has been considerable debate, in part conducted on Twitter, about whether the recrudescence of far-right politics seen around the world in recent years should be called fascist. It certainly has fascist potential, and Twitter—by giving people a channel for unimpeded self-description, by acting as both stimulant and sponge of humanity’s narratomania—has had no small part in organizing that potential. Some of the new types of guys that the website’s cultures have produced are those who worship death, take pleasure in the pain of others, and see subhumans everywhere. Twitter may not survive Musk, but if and when the website dies, I won’t be sure whether I should mourn it. “There is no document of civilization which is not at the same time a document of barbarism,” Walter Benjamin once wrote, and so sometimes it’s hard to know how to feel when such documents burn.\n",
+				"date_published": "2022-11-11T14:09:33-08:00",
+				"url": "https://notes.1705.net/2022/11/11/excellent-post-about.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/09/12/oddly-specific.html",
+				
+				"content_html": "<p>Oddly specific</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oddly specific \n\n<img src=\"uploads/2022/4beed63e33.jpg\" width=\"600\" height=\"216\" alt=\"\" />\n",
+				"date_published": "2022-09-12T08:06:23-08:00",
+				"url": "https://notes.1705.net/2022/09/12/oddly-specific.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/05/03/first-irises-of.html",
+				
+				"content_html": "<p>First irises of spring in our yard. Late, but beautiful!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "First irises of spring in our yard. Late, but beautiful!\n\n\n<img src=\"uploads/2022/58173519bc.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/020ba0b3f1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-03T11:10:29-08:00",
+				"url": "https://notes.1705.net/2022/05/03/first-irises-of.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/04/23/about-time.html",
+				
+				"content_html": "<p>About time…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "About time…\n\n<img src=\"uploads/2022/375a220b7c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-23T14:30:57-08:00",
+				"url": "https://notes.1705.net/2022/04/23/about-time.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/04/22/i-must-do.html",
+				
+				"content_html": "<p>I must do my part to stop this madness</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I must do my part to stop this madness \n\n<img src=\"uploads/2022/5c8aa3df8c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-22T14:01:19-08:00",
+				"url": "https://notes.1705.net/2022/04/22/i-must-do.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/03/25/so-you-have.html",
+				
+				"content_html": "<p>So.. you have some old wood, some casters, a window, and an IKEA greenhouse. Your wife asks you to make an area for starting 🌱, and you go hmmmmm.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "So.. you have some old wood, some casters, a window, and an IKEA greenhouse. Your wife asks you to make an area for starting 🌱, and you go hmmmmm.\n\n\n<img src=\"uploads/2022/ae720e49a4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/ae939da025.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/68acab8d3f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-25T08:10:16-08:00",
+				"url": "https://notes.1705.net/2022/03/25/so-you-have.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/01/28/finally-have-a.html",
+				
+				"content_html": "<p>Finally have a cat back in the White House! <a href=\"https://www.forbes.com/sites/roberthart/2022/01/28/meet-willow-bidens-welcome-new-cat-to-white-house/?sh=65beb9f48eae\">www.forbes.com/sites/rob&hellip;</a> 🐱🐈</p>\n",
+				"content_text": "Finally have a cat back in the White House! [www.forbes.com/sites/rob...](https://www.forbes.com/sites/roberthart/2022/01/28/meet-willow-bidens-welcome-new-cat-to-white-house/?sh=65beb9f48eae) 🐱🐈\n",
+				"date_published": "2022-01-28T09:34:03-08:00",
+				"url": "https://notes.1705.net/2022/01/28/finally-have-a.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/01/22/still-working.html",
+				
+				"content_html": "<p>Still working…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Still working…\n\n\n<img src=\"uploads/2022/bea8868f3d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-22T11:58:58-08:00",
+				"url": "https://notes.1705.net/2022/01/22/still-working.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/01/21/it-is-squirrel.html",
+				
+				"content_html": "<p>It is Squirrel Appreciation Day, so I made the little guys who live in our cedar tree a picnic table.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It is Squirrel Appreciation Day, so I made the little guys who live in our cedar tree a picnic table.\n\n<img src=\"uploads/2022/a29bb97925.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-01-21T16:07:44-08:00",
+				"url": "https://notes.1705.net/2022/01/21/it-is-squirrel.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/01/20/my-humble-fix.html",
+				"title": "My humble fix for a sweaty toilet",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My humble fix for a sweaty toilet</p>\n\n<p>We used to have an on demand water heater located in the same area as our toilet. It had a massive 5 inch vent with a standing pilot light. You could sit on the toilet and use the heater as a sonic periscope, listening to all the sounds in the neighborhood. We finally replaced that beast, as it was finicky, made it difficult (if not impossible) to get just a small stream of hot water, and we finally had an area to place a full size electric water heater.</p>\n\n<p>One of the downsides to this, we discovered, was that there was no longer a constant flow of air flowing past the toilet tank. This meant that the cold water coming into the toilet condensed on the outside of the porcelain tank, causing large droplets of water to fall all around the toilet, creating issues with the wood floor of the bathroom (long story). So I decided to fix this problem.</p>\n\n<p>My solution was to line the inside of the toilet tank with half inch thick neoprene foam, held in place with 3M VHB adhesive strips. I covered the bottom of the tank, cutting around all the vital bits, and lined the wall, going up a half inch above the water level. Problem solved.</p>\n",
+				"date_published": "2022-01-20T19:36:44-08:00",
+				"url": "https://notes.1705.net/2022/01/20/my-humble-fix.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2022/01/02/setapp.html",
+				"title": "Setapp",
+				"content_html": "<p>After years of thinking &ldquo;Nah, it is not for me&rdquo;, then realizing that <strong>ANOTHER</strong> app I wanted was in Setapp, I finally signed up. I wish I could get a credit for the over 30% of the apps in there that I already purchased.</p>\n<p>It <strong>is</strong> kinda fun to be able to easily try out an app - Setapp has done a nice job with the interface. I&rsquo;m sure I&rsquo;ll tire of that soon enough.</p>\n<p>This post posted via MarsEdit (a @danielpunkass joint) - an app I had not used in years, and really enjoy.</p>\n",
+				"content_text": "After years of thinking \"Nah, it is not for me\", then realizing that **ANOTHER** app I wanted was in Setapp, I finally signed up. I wish I could get a credit for the over 30% of the apps in there that I already purchased.\n\nIt **is** kinda fun to be able to easily try out an app - Setapp has done a nice job with the interface. I'm sure I'll tire of that soon enough.\n\nThis post posted via MarsEdit (a @danielpunkass joint) - an app I had not used in years, and really enjoy.\n",
+				"date_published": "2022-01-02T16:13:09-08:00",
+				"url": "https://notes.1705.net/2022/01/02/setapp.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/12/09/having-a-van.html",
+				
+				"content_html": "<p>Having a van makes waiting for someone to finish their appointment a relaxing experience.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Having a van makes waiting for someone to finish their appointment a relaxing experience.\n\n\n<img src=\"uploads/2021/2331545ef7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-09T12:44:48-08:00",
+				"url": "https://notes.1705.net/2021/12/09/having-a-van.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/12/01/oddly-warm-for.html",
+				
+				"content_html": "<p>Oddly warm for December, so I am trying to cool the yard down a bit.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oddly warm for December, so I am trying to cool the yard down a bit.\n\n\n<img src=\"uploads/2021/24ba8f4487.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-01T15:50:38-08:00",
+				"url": "https://notes.1705.net/2021/12/01/oddly-warm-for.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/11/26/books-follow-you.html",
+				
+				"content_html": "<p>Books follow you home and pry open your head and rearrange the things inside.\n📚</p>\n",
+				"content_text": "Books follow you home and pry open your head and rearrange the things inside.\n📚\n",
+				"date_published": "2021-11-26T08:57:33-08:00",
+				"url": "https://notes.1705.net/2021/11/26/books-follow-you.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/11/23/if-your-boat.html",
+				
+				"content_html": "<p>If your boat had spoons for oars, what would you like to be rowing in?</p>\n",
+				"content_text": "If your boat had spoons for oars, what would you like to be rowing in?\n",
+				"date_published": "2021-11-23T09:47:25-08:00",
+				"url": "https://notes.1705.net/2021/11/23/if-your-boat.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/11/23/our-fridge-of.html",
+				
+				"content_html": "<p>Our fridge of 30 years died recently. Lots of trepidation about how loud the new one would be. The new one has a completely different sound - it purrs like a large, stainless steel kitten full of food. Strange to see the food arranged in a different space after 30 years.</p>\n",
+				"content_text": "Our fridge of 30 years died recently. Lots of trepidation about how loud the new one would be. The new one has a completely different sound - it purrs like a large, stainless steel kitten full of food. Strange to see the food arranged in a different space after 30 years.\n",
+				"date_published": "2021-11-23T09:41:26-08:00",
+				"url": "https://notes.1705.net/2021/11/23/our-fridge-of.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/11/19/nostalgic-november-a.html",
+				
+				"content_html": "<h1 id=\"nostalgic-november\">Nostalgic November</h1>\n<p><strong>A story requested by the fantastic crew of <a href=\"https://hemisphericviews.com/\">Hemisperic Views</a> <a href=\"https://micro.blog/HemisphericViews\">@HemisphericViews</a> on micro.blog.</strong></p>\n<p>As I get older, there are many things that trigger a feeling of nostalgia. There are many past moments that are triggered by sights, sounds, smells, objects. But the one item that is most appropriate for Nostalgic November is my collection of Doc Savage paperbacks - a collection that was started on a rainy November afternoon, while visiting relatives in California.</p>\n<p>I was always a voracious reader, and on this particular rainy November day, I had run out of reading material on this trip - I had not expected to be stuck in a house all during my stay at Grandma’s. My dad suggested we head to the store to check out the paperbacks - I think he had run out of stuff to read, as well. When we got to the paperback section (remember spinning racks of paperbacks?), he grabbed a thin paperback with a large bronze man on the cover and said: “Here, I think you might like this!” There were two different books about this character, so I got both - and my ten year old self got hooked.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Doc_Savage?wprov=sfti1\">Doc Savage</a> was a hero in the “pulps” of the 30’s and 40’s - some claim he was the first “superman” of either the pulps or comics. He had a “Fortress of Solitude” before Superman, his first name was Clark - you get the idea. 181 stories were originally published, and I had gotten hooked on the reprints done by Bantam, starting in the 1960’s. They were at the low 50’s in the reprints when I started collecting, and when I got back home, I spent the next few years scouring the used book stores for all the earlier ones I could find, and buying the new ones when they were released. I had an almost complete collection before other teenage pursuits (ahem) took priority over collecting books.</p>\n<p>For some reason, I never got rid of those books. I got rid of everything else (a few times over), but never those books. Years later, I decided to complete my collection, and read the stories that I had never read. Every time I reach for a book, or look at my collection on the bookshelf - every time - I am reminded of that rainy California day with my dad, and the start of an adventure in reading, collecting, and enjoying the stories of Doc Savage and his aides.</p>\n<p>The books that started it all:\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "# Nostalgic November\n\n**A story requested by the fantastic crew of [Hemisperic Views](https://hemisphericviews.com/) [@HemisphericViews](https://micro.blog/HemisphericViews) on micro.blog.**\n\nAs I get older, there are many things that trigger a feeling of nostalgia. There are many past moments that are triggered by sights, sounds, smells, objects. But the one item that is most appropriate for Nostalgic November is my collection of Doc Savage paperbacks - a collection that was started on a rainy November afternoon, while visiting relatives in California.\n\nI was always a voracious reader, and on this particular rainy November day, I had run out of reading material on this trip - I had not expected to be stuck in a house all during my stay at Grandma’s. My dad suggested we head to the store to check out the paperbacks - I think he had run out of stuff to read, as well. When we got to the paperback section (remember spinning racks of paperbacks?), he grabbed a thin paperback with a large bronze man on the cover and said: “Here, I think you might like this!” There were two different books about this character, so I got both - and my ten year old self got hooked.\n\n[Doc Savage](https://en.wikipedia.org/wiki/Doc_Savage?wprov=sfti1) was a hero in the “pulps” of the 30’s and 40’s - some claim he was the first “superman” of either the pulps or comics. He had a “Fortress of Solitude” before Superman, his first name was Clark - you get the idea. 181 stories were originally published, and I had gotten hooked on the reprints done by Bantam, starting in the 1960’s. They were at the low 50’s in the reprints when I started collecting, and when I got back home, I spent the next few years scouring the used book stores for all the earlier ones I could find, and buying the new ones when they were released. I had an almost complete collection before other teenage pursuits (ahem) took priority over collecting books.\n\nFor some reason, I never got rid of those books. I got rid of everything else (a few times over), but never those books. Years later, I decided to complete my collection, and read the stories that I had never read. Every time I reach for a book, or look at my collection on the bookshelf - every time - I am reminded of that rainy California day with my dad, and the start of an adventure in reading, collecting, and enjoying the stories of Doc Savage and his aides.\n\nThe books that started it all:\n<img src=\"uploads/2021/ef3b6759c5.jpg\" width=\"386\" height=\"640\" alt=\"\" />\n<img src=\"uploads/2021/8b2777fd7b.jpg\" width=\"380\" height=\"640\" alt=\"\" />\n",
+				"date_published": "2021-11-19T18:18:43-08:00",
+				"url": "https://notes.1705.net/2021/11/19/nostalgic-november-a.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/11/02/coffee-consumption-doubles.html",
+				
+				"content_html": "<p>Coffee consumption doubles this time of year…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coffee consumption doubles this time of year…\n\n<img src=\"uploads/2021/cbac379be0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-11-02T09:48:53-08:00",
+				"url": "https://notes.1705.net/2021/11/02/coffee-consumption-doubles.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/10/22/finally-got-around.html",
+				
+				"content_html": "<p>Finally got around to a modern theme on <a href=\"https://1705.net\">my EuroVan site</a>. Now I just need to post my backlog of projects!</p>\n",
+				"content_text": "Finally got around to a modern theme on [my EuroVan site](https://1705.net). Now I just need to post my backlog of projects!\n",
+				"date_published": "2021-10-22T13:04:15-08:00",
+				"url": "https://notes.1705.net/2021/10/22/finally-got-around.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/10/19/get-a-guitar.html",
+				
+				"content_html": "<p>Get a guitar solo a day from Eugene Chadbourne: <a href=\"https://eugenechadbourne-documentation.squarespace.com/new-events\">eugenechadbourne-documentation.squarespace.com/new-event&hellip;</a></p>\n",
+				"content_text": "Get a guitar solo a day from Eugene Chadbourne: [eugenechadbourne-documentation.squarespace.com/new-event...](https://eugenechadbourne-documentation.squarespace.com/new-events)\n",
+				"date_published": "2021-10-19T10:04:36-08:00",
+				"url": "https://notes.1705.net/2021/10/19/get-a-guitar.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/10/06/replaced-our-furnace.html",
+				
+				"content_html": "<p>Replaced our furnace after 30 years of service (it was still working, just thought it could use a break). Now getting used to all the new sounds from this one, as well as enjoying having a remote thermostat for the first time.</p>\n",
+				"content_text": "Replaced our furnace after 30 years of service (it was still working, just thought it could use a break). Now getting used to all the new sounds from this one, as well as enjoying having a remote thermostat for the first time.\n",
+				"date_published": "2021-10-06T09:37:08-08:00",
+				"url": "https://notes.1705.net/2021/10/06/replaced-our-furnace.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/22/thanks-jean.html",
+				
+				"content_html": "<p>Thanks <a href=\"https://micro.blog/jean\">@jean</a> !</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thanks [@jean](https://micro.blog/jean) !\n\n<img src=\"uploads/2021/56b4ab307d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-09-22T18:14:35-08:00",
+				"url": "https://notes.1705.net/2021/09/22/thanks-jean.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/19/time-to-act.html",
+				
+				"content_html": "<p>Time to act like a hunter gatherer. Hunt for a parking spot, and gather my CSA from the Farmers Market.</p>\n",
+				"content_text": "Time to act like a hunter gatherer. Hunt for a parking spot, and gather my CSA from the Farmers Market.\n",
+				"date_published": "2021-09-19T08:21:02-08:00",
+				"url": "https://notes.1705.net/2021/09/19/time-to-act.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/18/more-books.html",
+				"title": "More books",
+				"content_html": "<p>📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📚\n\n<img src=\"uploads/2021/e23fb56c51.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-18T14:06:37-08:00",
+				"url": "https://notes.1705.net/2021/09/18/more-books.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/18/discoveries-from-my.html",
+				"title": "Discoveries from my late brother ",
+				"content_html": "<p>Just one of the amazing music books 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just one of the amazing music books 📚\n\n<img src=\"uploads/2021/93a2f27e76.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-18T14:03:58-08:00",
+				"url": "https://notes.1705.net/2021/09/18/discoveries-from-my.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/15/up-next.html",
+				"title": "Up next!",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2021/8179e8bd2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-15T09:47:26-08:00",
+				"url": "https://notes.1705.net/2021/09/15/up-next.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/12/proposal-all-items.html",
+				
+				"content_html": "<p><strong>Proposal</strong> : All items sold in jars must be wide mouth Mason jars (in any size) with easy to remove labels.</p>\n",
+				"content_text": "**Proposal** : All items sold in jars must be wide mouth Mason jars (in any size) with easy to remove labels. \n",
+				"date_published": "2021-09-12T16:38:58-08:00",
+				"url": "https://notes.1705.net/2021/09/12/proposal-all-items.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/12/milestone.html",
+				"title": "Milestone ",
+				"content_html": "<p>Half way through sorting my late brother’s book collection. Only 12 more boxes to go. So many books on Spinoza!\n📚</p>\n",
+				"content_text": "Half way through sorting my late brother’s book collection. Only 12 more boxes to go. So many books on Spinoza!\n📚\n",
+				"date_published": "2021-09-12T15:32:49-08:00",
+				"url": "https://notes.1705.net/2021/09/12/milestone.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/11/flea.html",
+				"title": "Flea",
+				"content_html": "<p>This guy would have been 18 today. Miss him every day. 🐈‍⬛\n🐱</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This guy would have been 18 today. Miss him every day. 🐈‍⬛\n🐱\n\n<img src=\"uploads/2021/4493771e19.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-11T13:40:00-08:00",
+				"url": "https://notes.1705.net/2021/09/11/flea.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/10/it-continues.html",
+				
+				"content_html": "<p>it continues&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "it continues... \n\n<img src=\"uploads/2021/cb3fc06cf4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-09-10T12:19:00-08:00",
+				"url": "https://notes.1705.net/2021/09/10/it-continues.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/08/working-on-the.html",
+				"title": "Cleaning up…",
+				"content_html": "<p>Working on the gross belly pan.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Working on the gross belly pan.\n\n<img src=\"uploads/2021/7b956f96e0.jpg\" width=\"160\" height=\"213\" alt=\"\" />\n",
+				"date_published": "2021-09-08T18:22:00-08:00",
+				"url": "https://notes.1705.net/2021/09/08/working-on-the.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/08/now-the-fun.html",
+				"title": "Now the fun begins",
+				"content_html": "<p>Lots and lots of things to do on the van!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lots and lots of things to do on the van!\n\n\n<img src=\"uploads/2021/cb16199338.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-08T12:29:29-08:00",
+				"url": "https://notes.1705.net/2021/09/08/now-the-fun.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/07/always-a-bit.html",
+				"title": "Always a bit late…",
+				"content_html": "<p>Never have the patience to take the photo BEFORE eating…. Plum and blueberry galette. 🫐</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Never have the patience to take the photo BEFORE eating…. Plum and blueberry galette. 🫐\n\n\n<img src=\"uploads/2021/fd83ae5d2c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-07T18:30:25-08:00",
+				"url": "https://notes.1705.net/2021/09/07/always-a-bit.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/03/vaccine-psa.html",
+				"title": "Vaccine PSA",
+				"content_html": "<p><a href=\"https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks\">www.mcsweeneys.net/articles/&hellip;</a></p>\n",
+				"content_text": "[www.mcsweeneys.net/articles/...](https://www.mcsweeneys.net/articles/oh-my-fucking-god-get-the-fucking-vaccine-already-you-fucking-fucks)\n",
+				"date_published": "2021-09-03T17:07:55-08:00",
+				"url": "https://notes.1705.net/2021/09/03/vaccine-psa.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/02/letterboxd.html",
+				"title": "Letterboxd",
+				"content_html": "<p>Decided to sign up for a PRO account on <a href=\"https://letterboxd.com\">Letterboxd</a> for a year and start logging and reviewing (or simply noting my thoughts) on each film I watch. So of course I had to submit a feature request for micro.blog integration: <a href=\"https://letterboxd.nolt.io/109\">letterboxd.nolt.io/109</a></p>\n",
+				"content_text": "Decided to sign up for a PRO account on [Letterboxd](https://letterboxd.com) for a year and start logging and reviewing (or simply noting my thoughts) on each film I watch. So of course I had to submit a feature request for micro.blog integration: [letterboxd.nolt.io/109](https://letterboxd.nolt.io/109)\n",
+				"date_published": "2021-09-02T20:05:50-08:00",
+				"url": "https://notes.1705.net/2021/09/02/letterboxd.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/09/01/i-was-just.html",
+				
+				"content_html": "<p>I was just ranting to my wife about the neighbors overgrown yard with my AirPods in, and as soon as my rant finished, Siri said “I don’t know how to respond to this”. So who says Siri is stupid?</p>\n",
+				"content_text": "I was just ranting to my wife about the neighbors overgrown yard with my AirPods in, and as soon as my rant finished, Siri said “I don’t know how to respond to this”. So who says Siri is stupid?\n",
+				"date_published": "2021-09-01T14:19:40-08:00",
+				"url": "https://notes.1705.net/2021/09/01/i-was-just.html"
+			},
+			{
+				"id": "http://dsh1705.micro.blog/2021/08/30/roasting-pounds-of.html",
+				
+				"content_html": "<p>Roasting 5+ pounds of Hatch chiles. Man, this is going to smell awesome!</p>\n<p>🌶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Roasting 5+ pounds of Hatch chiles. Man, this is going to smell awesome!\n\n🌶\n\n<img src=\"uploads/2021/43584cd651.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-30T10:05:55-08:00",
+				"url": "https://notes.1705.net/2021/08/30/roasting-pounds-of.html"
+			}
+	]
+}
